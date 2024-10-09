@@ -11,6 +11,7 @@ Analyzise a Sales to assist a company in budgeting and forecasting future perfor
 - Fat-content for different types products
   
 **DASHBOARD INSIGHTS****
+
 The dashboard provides detailed insights on:
 - sales through each item
 - Year wise sales trends 
@@ -18,6 +19,7 @@ The dashboard provides detailed insights on:
 - out size and loaction
 - fat content by products
 - item type analysis
+  
 This project demonstrates how power bi can transform raw data into meaningful and actionable insights for better decision-making
 
  
